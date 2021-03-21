@@ -8,9 +8,10 @@
         scale: 1.00,
         scaleMobile: 1.00,
         backgroundColor: 0xffffff,
-        color1: 0x36ea88,
-        color2: 0x1,
+         color1: 0x551d8b,
+         color2: 0x3d46d8,
         speedLimit: 2.00,
-        separation: 40.00,
-        quantity: 3.00
+         separation: 16.00,
+        quantity: 2.0,
+         birdSize: 1.5,
     })
